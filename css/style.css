@@ -344,7 +344,7 @@
   .header__body {
     display: none;
     width: 250px;
-    height: 230px;
+    height: 300px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
